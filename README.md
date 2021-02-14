@@ -41,3 +41,9 @@ iv.Then Run node app.js to perform task based on the inquirer prompt.
   * Deployed URL: [negasimichael](N/A)
   * Github URL: [negasimichael](https://github.com/negasimichael/burger-logger)
   * Email: negasimichael1@gmail.com
+  
+## License
+   [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT).
+ 
+ ------------------------------------------------------------------------------
+© 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
