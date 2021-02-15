@@ -49,7 +49,7 @@ iv.Then Run node server.js to perform task based on the inquirer prompt.
 
    ## Developer Contact Information
   * Linkedin Profile: [negasimichael](https://www.linkedin.com/feed/)
-  * Deployed URL: [negasimichael](N/A)
+  * Deployed URL: [negasimichael](https://burgerapp124.herokuapp.com/index)
   * Github URL: [negasimichael](https://github.com/negasimichael/burger-logger)
   * Email: negasimichael1@gmail.com
   
