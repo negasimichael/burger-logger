@@ -9,6 +9,5 @@ CREATE TABLE burgers (
 	id INT AUTO_INCREMENT NOT NULL,
 	burger_name VARCHAR(255),
 	devoured BOOLEAN DEFAULT false,
-	CREATE  At TIMESTAMP NOT NULL,
 	PRIMARY KEY(id)
 );
